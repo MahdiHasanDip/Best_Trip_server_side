@@ -1,5 +1,14 @@
 # Best Trip
 
+## Description
+-	A Full-stack project with authentication, private routing functionalities.
+-	User can find services but if they want to learn more about individual services they have to log in.
+-	User can log in with google.
+-	User can add services or delete them.
+-	Users also can order a service on the place order page.
+-	In manage all order page, users can read and delete orders.
+
+
 
 
 
